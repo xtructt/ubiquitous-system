@@ -1,0 +1,4 @@
+python-dotenv==1.0.0
+gradio==4.1.2
+gradio_client==0.7.0
+openai==1.1.2
